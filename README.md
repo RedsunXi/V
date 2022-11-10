@@ -60,4 +60,4 @@
 ### 二、设置代理
 选择节点后点击V进行代理，在设置中可选择分应用代理
 ## 安全上网
-[如何保护隐私](https://program-think.blogspot.com/2013/06/privacy-protection-0.html)
+#### [如何保护隐私](https://program-think.blogspot.com/2013/06/privacy-protection-0.html)
