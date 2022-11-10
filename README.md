@@ -9,8 +9,6 @@
 可能有安全危险，谨慎使用；一月5G，不可续费
 ## v2rayN使用教程
 ### 一、下载V2RayN
-点击下载：[https://github.com/2dust/v2rayN/releases/download/3.23/v2rayN-Core.zip](https://github.com/2dust/v2rayN/releases/download/3.23/v2rayN-Core.zip)
-
 下载后解压到自己喜欢的文件夹，然后运行v2rayN.exe。如果 Windows 出现安全提示，点击「更多信息」然后再选择「仍要运行」即可。
 
 ![1双击运行](https://github.com/freefq/tutorials/blob/master/img/1.png)
