@@ -4,7 +4,9 @@
 | v2ray  | [v2rayNG](https://github.com/2dust/v2rayNG/releases/download/1.7.25/v2rayNG_1.7.25_arm64-v8a.apk) | [v2rayN](https://github.com/2dust/v2rayN/releases/download/5.38/v2rayN-Core.zip) |  
 ## 节点资源
 ### [Kangaroo✦Network](https://kan.gar.ooo/)
+任意邮箱注册，无需邀请码，订阅服务器后复制订阅地址(一键订阅)
 ### [Bulink](https://bulink.xyz/) 
+可能有安全危险，谨慎使用
 ## v2rayN使用教程
 ### 一、下载V2RayN
 点击下载：[https://github.com/2dust/v2rayN/releases/download/3.23/v2rayN-Core.zip](https://github.com/2dust/v2rayN/releases/download/3.23/v2rayN-Core.zip)
