@@ -29,7 +29,7 @@
 
 ##### 导入节点
 
-首先复制vmess节点（[获取地址](https://github.com/freefq/free)），在v2RayN界面点击服务器，在下拉菜单中点击从剪贴板导入批量URL。
+首先复制vmess节点或订阅地址，在v2RayN界面点击服务器，在下拉菜单中点击从剪贴板导入批量URL。
 
 ![4导入节点](https://github.com/freefq/tutorials/blob/master/img/4.png)
 
@@ -37,7 +37,7 @@
 
 ##### 启用节点
 
-选择任一节点，单击右键->设为活动服务器，即启用该节点作为HTTP代理服务器。（也可以在左键点击节点名称以后按一下回车键，即Enter键）
+[更新订阅后]选择任一节点，单击右键->设为活动服务器，即启用该节点作为HTTP代理服务器。（也可以在左键点击节点名称以后按一下回车键，即Enter键）
 
 ![5设为活动服务器](https://github.com/freefq/tutorials/blob/master/img/5.png)
 
