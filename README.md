@@ -6,7 +6,7 @@
 ### [Kangaroo✦Network](https://kan.gar.ooo/)
 任意邮箱注册，无需邀请码，订阅服务器后复制订阅地址(一键订阅)；一月2G，可手动续费
 ### [Bulink](https://bulink.xyz/) 
-可能有安全危险，谨慎使用
+可能有安全危险，谨慎使用；一月5G，不可续费
 ## v2rayN使用教程
 ### 一、下载V2RayN
 点击下载：[https://github.com/2dust/v2rayN/releases/download/3.23/v2rayN-Core.zip](https://github.com/2dust/v2rayN/releases/download/3.23/v2rayN-Core.zip)
